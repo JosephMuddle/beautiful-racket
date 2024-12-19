@@ -9,7 +9,7 @@
 (define-macro (define-op OP)
     #'(define-macro-cases OP
         [(OP FIRST) #'FIRST]
-        [(OP FIRST NEXT (... ...)) #'(list 'OP FIRST (+ NEXT (... ...)))]
+        [(OP FIRST NEXT (... ...)) #'(list 'OP FIRST (OP NEXT (... ...)))]
     )
 )
 
