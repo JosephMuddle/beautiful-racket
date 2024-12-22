@@ -1,0 +1,1 @@
+("8.15" ta6nt ("a77bbd9ef609f6fecd49c8f6b95b891a6f1b810b" . "cb16a0ef3a82cea8d86278ebc9f5df8ff0178bf4") (collects #"bf" #"bf-reader.rkt") (collects #"br" #"main.rkt") (collects #"br" #"quicklang.rkt") (collects #"racket" #"runtime-config.rkt"))
