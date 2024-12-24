@@ -1,0 +1,1 @@
+("8.15" ta6nt ("59f30a62fe8b857453cf3a32a17189cbc8d8e950" . "5a3b099797518985a21a9d15f8cb33c88bdc06c1") (collects #"br" #"quicklang.rkt") (collects #"brag" #"support.rkt") (collects #"drracket" #"private" #"drracket-errortrace-key.rkt") (collects #"racket" #"runtime-config.rkt"))
