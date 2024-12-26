@@ -1,6 +1,6 @@
 #lang br/quicklang
 
 (module reader br
-    (require "jsonic-reader.rkt")
+    (require "reader.rkt")
     (provide read-syntax))
 

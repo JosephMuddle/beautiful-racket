@@ -1,0 +1,1 @@
+("8.15" ta6nt ("a2e799fceb335edf332017965169136cbc45b378" . "df432d77fc0ff0ed1dae2c969523f83b468adaa3") (collects #"br" #"main.rkt") (collects #"br" #"quicklang.rkt") (collects #"drracket" #"private" #"drracket-errortrace-key.rkt") (collects #"jsonic" #"jsonic-reader.rkt") (collects #"racket" #"runtime-config.rkt"))
